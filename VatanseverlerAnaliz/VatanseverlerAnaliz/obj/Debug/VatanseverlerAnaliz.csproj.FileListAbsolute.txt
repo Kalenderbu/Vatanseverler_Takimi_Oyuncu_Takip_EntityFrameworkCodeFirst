@@ -1,0 +1,133 @@
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.AssemblyReference.cache
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.Properties.Resources.resources
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.GenerateResource.cache
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.CoreCompileInputs.cache
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmOyuncuekle.resources
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmTakim.resources
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.MainForm.resources
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmDevamsizlik.resources
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.exe.config
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.exe
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.pdb
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.SqlServer.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Buffers.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Collections.Immutable.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Memory.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Numerics.Vectors.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Encodings.Web.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Json.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Channels.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.ValueTuple.dll
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.SqlServer.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Buffers.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Collections.Immutable.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Memory.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Numerics.Vectors.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Encodings.Web.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Json.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Channels.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.ValueTuple.xml
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.CopyComplete
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.exe
+D:\Üniversite\3. Dönem\Yönlendirilmiş Çalışma\Takım Takip Projesi\Entity ile\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.pdb
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.exe.config
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.exe
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.pdb
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Buffers.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Memory.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Json.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Channels.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.ValueTuple.dll
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Buffers.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Memory.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Json.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Channels.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.ValueTuple.xml
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmOyuncuekle.resources
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmTakim.resources
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.MainForm.resources
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmDevamsizlik.resources
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.Properties.Resources.resources
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.GenerateResource.cache
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.CopyComplete
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.exe
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.pdb
+C:\Users\Musta\Desktop\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.AssemblyReference.cache
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.exe.config
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.exe
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\VatanseverlerAnaliz.pdb
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Buffers.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Memory.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Json.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Channels.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.ValueTuple.dll
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Buffers.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Memory.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Text.Json.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Channels.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\System.ValueTuple.xml
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.AssemblyReference.cache
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmOyuncuekle.resources
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmTakim.resources
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.MainForm.resources
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.FrmDevamsizlik.resources
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.Properties.Resources.resources
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.GenerateResource.cache
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.csproj.CopyComplete
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.exe
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\obj\Debug\VatanseverlerAnaliz.pdb
+C:\Users\Musta\Desktop\Proje Düzenlenmiş\VatanseverlerAnaliz\VatanseverlerAnaliz\bin\Debug\SQLite.CodeFirst.dll
